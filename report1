@@ -16,4 +16,4 @@
 ##### At first input the stock you want to calculate and time period you want to observe.We use **AAPL** stock from 2023-01-01 to 2023-04-01 as example.In our example,when stock's closing price decreases 5%,it will trigger fixed percentage stop loss method to print stop loss point.And when Minimum value within rolling window decreases 5% it triggers moving stop method to print.
 
 ## our sample image
-![This is an alt text.]("C:\Users\user\Downloads\下載 (2).png" "This is a sample image.")
+![This is an alt text.](下載 (2).png "This is a sample image.")
