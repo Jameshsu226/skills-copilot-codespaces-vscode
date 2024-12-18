@@ -1,0 +1,6 @@
+# Calculation and early warning of stock stop loss points
+
+## usage
+##### import yfinance
+##### import matplotlib.pyplot
+##### import numpy 
