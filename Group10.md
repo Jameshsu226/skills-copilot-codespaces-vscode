@@ -16,7 +16,7 @@
 ##### At first input the stock you want to calculate and time period you want to observe.We use **AAPL** stock from 2023-01-01 to 2023-04-01 as example.In our example,when stock's closing price decreases 5%,it will trigger fixed percentage stop loss method to print stop loss point.And when Minimum value within rolling window decreases 5% it triggers moving stop method to print.
 
 ## Our sample graph
-![image](https://github.com/Jameshsu226/skills-copilot-codespaces-vscode/blob/main/%E4%B8%8B%E8%BC%89%20(2).png)
+![image](https://github.com/Jameshsu226/skills-copilot-codespaces-vscode/issues/1)
 
 ## Our reference resources
 ##### [停損/停利是什麼？如何設置停損點與停利點？股市賺錢必學觀念](https://finguider.cc/Article/ArticleIndex/726).
